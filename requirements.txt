@@ -1,8 +1,7 @@
 streamlit
 pandas
 numpy
-scikit-learn
 xgboost
+scikit-learn
 sentence-transformers
-python-3.10
-
+torch
