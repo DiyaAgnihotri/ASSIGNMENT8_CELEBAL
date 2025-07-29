@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/03/04/Blue-Abstract-Webpage-Background-Graphics-3073290-1.jpg);
+            background-image: url(https://png.pngtree.com/background/20230414/original/pngtree-colorful-simple-background-for-website-picture-image_2424835.jpg);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
