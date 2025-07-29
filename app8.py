@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background: url('https://static.vecteezy.com/system/resources/thumbnails/002/382/008/small/abstract-yellow-background-free-vector.jpg') no-repeat center center fixed;
+            background: url('https://wallpapercat.com/w/full/b/a/9/1209998-3840x2160-desktop-4k-glow-in-the-dark-background-photo.jpg') no-repeat center center fixed;
             background-size: cover;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
