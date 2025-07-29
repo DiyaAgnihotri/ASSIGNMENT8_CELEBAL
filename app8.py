@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://unsplash.com/photos/a-view-of-the-sky-from-above-the-clouds-8xXeYkZMm-c');
+            background-image: url('https://www.pixelstalk.net/wp-content/uploads/images6/Pink-Aesthetic-HD-Wallpaper-Free-download.jpg');
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
