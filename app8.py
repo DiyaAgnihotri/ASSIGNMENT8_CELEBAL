@@ -25,7 +25,8 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://images.hdqwalls.com/wallpapers/light-abstract-simple-background-iv.jpg');
+            background: url('https://images.hdqwalls.com/wallpapers/light-abstract-simple-background-iv.jpg') no-repeat center center fixed;
+            background-size: cover;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
