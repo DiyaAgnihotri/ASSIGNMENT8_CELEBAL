@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url(https://png.pngtree.com/background/20230414/original/pngtree-colorful-simple-background-for-website-picture-image_2424835.jpg);
+            background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20241126/pngtree-abstract-pink-background-vector-image_16667423.jpg);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
