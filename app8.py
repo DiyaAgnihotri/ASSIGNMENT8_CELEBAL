@@ -159,7 +159,7 @@ def set_background():
         }
 
         .metric-card {
-            background: white;
+            background: black;
             padding: 1rem;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
