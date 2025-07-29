@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://www.pixelstalk.net/wp-content/uploads/images6/Pink-Aesthetic-HD-Wallpaper-Free-download.jpg');
+            background-image: url('https://www.shutterstock.com/image-vector/business-arrow-growth-investment-technology-600nw-2442581697.jpg');
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
