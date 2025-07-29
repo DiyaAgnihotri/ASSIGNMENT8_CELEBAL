@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://plus.unsplash.com/premium_photo-1664443577580-dd2674e9d359?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D');
+            background-image: url('https://unsplash.com/photos/a-view-of-the-sky-from-above-the-clouds-8xXeYkZMm-c');
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
