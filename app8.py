@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://sbi.co.in/documents/77530/47792862/Mask+Group+68.png/8243e0c5-3b43-4357-ca73-bc0cea4cf382?t=1724840473629');
+            background-image: url('https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmluYW5jZXxlbnwwfHwwfHx8MA%3D%3D');
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
