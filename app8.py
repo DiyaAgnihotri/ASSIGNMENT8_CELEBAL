@@ -55,8 +55,9 @@ def set_background():
         }
 
         .subtitle {
-            color: #666;
-            font-size: 1.1rem;
+            color: #f0ebeb;
+            font-size: 1.7rem;
+            font-weight: bold
             margin-bottom: 1rem;
         }
 
@@ -170,7 +171,8 @@ def set_background():
             margin-top: 3rem;
             padding-top: 2rem;
             border-top: 2px solid rgba(102, 126, 234, 0.2);
-            color: #666;
+            color: #f0ebeb;
+            font-weight:bold
             font-size: 16px;
         }
 
