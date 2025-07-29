@@ -46,7 +46,7 @@ def set_background():
         }
 
         .title-container h1 {
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #667eea, #e8a2e2);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             font-weight: 700;
