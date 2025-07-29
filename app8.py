@@ -365,7 +365,6 @@ def display_system_info():
 
     # Show recommendations
     compressed_exists = file_info['Compressed RAG Cache']['exists']
-    old_cache_exists = file_info['Old RAG Cache']['exists']
 
     if old_cache_exists and not compressed_exists:
         st.markdown("""
