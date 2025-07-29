@@ -25,7 +25,7 @@ def set_background():
     st.markdown("""
         <style>
         .stApp {
-            background-image: url('https://images.unsplash.com/photo-1724304406928-c43b01912fa1?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG9hbnxlbnwwfHwwfHx8MA%3D%3D');
+            background-image: url(https://img.freepik.com/free-vector/digital-money-transfer-technology-background_1017-17454.jpg?semt=ais_hybrid&w=740);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
