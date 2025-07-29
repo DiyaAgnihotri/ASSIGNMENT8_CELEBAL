@@ -366,13 +366,13 @@ def display_system_info():
     # Show recommendations
     compressed_exists = file_info['Compressed RAG Cache']['exists']
 
-   """ if old_cache_exists and not compressed_exists:
-        st.markdown("""
-        <div class="warning-box">
-            ⚠️ <strong>Recommendation:</strong> You have an old RAG cache file.
-            The system will automatically create a compressed version for better GitHub compatibility.
-        </div>
-        """, unsafe_allow_html=True)"""
+    #if old_cache_exists and not compressed_exists:
+     #   st.markdown("""
+      #  <div class="warning-box">
+       #     ⚠️ <strong>Recommendation:</strong> You have an old RAG cache file.
+        #    The system will automatically create a compressed version for better GitHub compatibility.
+        #</div>
+        #""", unsafe_allow_html=True)
 
     if compressed_exists:
         cache_size = file_info['Compressed RAG Cache']['size']
