@@ -215,7 +215,6 @@ def check_file_sizes():
 
     files_to_check = [
         ('loan_model.pkl', 'ML Model'),
-        ('rag_cache.pkl', 'Old RAG Cache'),
         ('rag_cache_compressed.gz', 'Compressed RAG Cache'),
         ('Training Dataset.csv', 'Training Data'),
         ('Test Dataset.csv', 'Test Data')
